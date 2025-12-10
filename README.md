@@ -1,5 +1,5 @@
 Personal Portfolio Website
-This repository contains my personal multi-page portfolio website. https://aminwayne123.github.io/portfolio-/
+This repository contains my personal multi-page portfolio website. https://aminwayne123.github.io/batman2/
 
 Pages Structure
 index.html → Home page (About me, education, experience)
